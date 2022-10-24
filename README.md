@@ -9,4 +9,5 @@
 <img src=https://img.shields.io/badge/Bash-000000?logo=Bash&logoColor=white&style=flat>
 <img src=https://img.shields.io/badge/linux-FFFF00?logo=linux&logoColor=white&style=flat>
 <img src=https://img.shields.io/badge/terraform-FF00FF?logo=terraform&logoColor=white&style=flat>
+<img src=https://img.shields.io/badge/kubernetes-0000FF?logo=kubernetes&logoColor=white&style=flat>
 </p>
