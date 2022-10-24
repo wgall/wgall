@@ -1,6 +1,6 @@
 
 
-<h1> Technologies that I already use or I am learning </h1>
+<h1> Technologies that I use or I am learning </h1>
 <p>
 <img src=https://img.shields.io/badge/Ansible-FF0000?logo=ansible&logoColor=white&style=flat>
 <img src=https://img.shields.io/badge/git-FF4F00?logo=git&logoColor=white&style=flat>
