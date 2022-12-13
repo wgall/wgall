@@ -18,3 +18,7 @@
 <img src=https://img.shields.io/badge/Javascript-FFFF00?logo=javascript&logoColor=white&style=flat>
 <img src=https://img.shields.io/badge/MYSQL-FF5F00?logo=mysql&logoColor=white&style=flat>
 </p>
+
+<hr>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wgall)](https://github.com/anuraghazra/github-readme-stats)
