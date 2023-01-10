@@ -1,4 +1,5 @@
 
+<h1> Junior DevOps </h1>
 
 <h1> Technologies that I use </h1>
 <p>
@@ -10,6 +11,8 @@
 <img src=https://img.shields.io/badge/Linux-FFFF00?logo=linux&logoColor=white&style=flat>
 <img src=https://img.shields.io/badge/Terraform-FF00FF?logo=terraform&logoColor=white&style=flat>
 <img src=https://img.shields.io/badge/Kubernetes-0000FF?logo=kubernetes&logoColor=white&style=flat>
+<img src=https://img.shields.io/badge/GCP-1500FF?logo=google&logoColor=white&style=flat>
+
 
 </p>
 <h1> Technologies That I am learning </h1>
@@ -17,6 +20,7 @@
 <img src=https://img.shields.io/badge/PHP-5F00FF?logo=php&logoColor=white&style=flat>
 <img src=https://img.shields.io/badge/Javascript-FFFF00?logo=javascript&logoColor=white&style=flat>
 <img src=https://img.shields.io/badge/MYSQL-FF5F00?logo=mysql&logoColor=white&style=flat>
+<img src=https://img.shields.io/badge/AWS-FF6500?logo=amazon&logoColor=white&style=flat>
 </p>
 
 <hr>
