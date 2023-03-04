@@ -32,7 +32,10 @@
    <li><img src=https://img.shields.io/badge/MYSQL-FF5F00?logo=mysql&logoColor=white&style=flat></li>
   <li><img src=https://img.shields.io/badge/Bash-000000?logo=Bash&logoColor=white&style=flat></li>
 </ul>
-
+<h1> Technologies that I am learing </h1>
+<ul>
+  <li><img src=https://img.shields.io/badge/Jenkins-FF0000?logo=Jenkins&logoColor=white&style=flat></li>
+</ul>
 
 
 
