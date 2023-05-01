@@ -37,8 +37,8 @@
   <li><img src=https://img.shields.io/badge/Jenkins-FF0000?logo=Jenkins&logoColor=white&style=flat></li>
 </ul>
 
-
-
 <hr>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wgall)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
