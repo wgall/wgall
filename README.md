@@ -1,5 +1,5 @@
 
-<h1> Junior DevOps </h1>
+<h1> DevOps </h1>
 
 <h1> Technologies that I use </h1>
 <h3>IaC</h3>
