@@ -15,6 +15,7 @@
 <h3>CI/CD Tools</h3>
 <ul>
   <li><img src=https://img.shields.io/badge/Github-Actions-0FF50F?logo=githubactions&logoColor=white&style=flat></li>
+  <li><img src=https://img.shields.io/badge/Jenkins-FF0000?logo=Jenkins&logoColor=white&style=flat></li>
 </ul>
 <h3> Version Control tools</h3>
 <ul>
@@ -34,7 +35,8 @@
 </ul>
 <h1> Technologies that I am learing </h1>
 <ul>
-  <li><img src=https://img.shields.io/badge/Jenkins-FF0000?logo=Jenkins&logoColor=white&style=flat></li>
+  <li><img src=https://img.shields.io/badge/Spring-00FF00?logo=Spring&logoColor=white&style=flat></li>
+  <li></li>
 </ul>
 
 <hr>
