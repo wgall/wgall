@@ -24,7 +24,7 @@
 </div>
 <h3 align='center'>Web Frameworks </h3>
 <div align='center'>
-  <p><img src=https://img.shields.io/badge/-Spring%20-00FF00?logo=spring&logoColor=white&style=for-the-badge><img src=https://img.shields.io/badge/Laravel-FF5F00?logo=Laravel&logoColor=white&style=for-the-badge></p>
+  <p><img src=https://img.shields.io/badge/-Spring%20Boot%20-00FF00?logo=spring&logoColor=white&style=for-the-badge><img src=https://img.shields.io/badge/Laravel-FF5F00?logo=Laravel&logoColor=white&style=for-the-badge></p>
   <p>          <img src="https://img.shields.io/badge/Express-00F0FF?logo=Express&logoColor=white&style=for-the-badge"></p>
 </div>
 <hr>
