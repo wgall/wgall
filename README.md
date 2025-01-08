@@ -8,11 +8,13 @@
 </div>
 <h3 align='center'>Cloud Providers</h3>
 <div align='center'>
-  <p><img src=https://img.shields.io/badge/AWS-FF6500?logo=amazon&logoColor=white&style=for-the-badge><img src=https://img.shields.io/badge/GCP-1500FF?logo=google&logoColor=white&style=for-the-badge></p>
+  <p><img src=https://img.shields.io/badge/AWS-FF6500?logo=amazon&logoColor=white&style=for-the-badge><img src=https://img.shields.io/badge/Google%20Cloud%20Platform-1500FF?logo=google&logoColor=white&style=for-the-badge><br>
+  <img src=https://img.shields.io/badge/OpenStack-FF0000?logo=openstack&logoColor=white&style=for-the-badge></p>
 </div>
 <h3 align='center'>CI/CD Tools</h3>
 <div align='center'>
-  <p><img src=https://img.shields.io/badge/Github-Actions-0FF50F?logo=githubactions&logoColor=white&style=for-the-badge><img src=https://img.shields.io/badge/Jenkins-FF0000?logo=Jenkins&logoColor=white&style=for-the-badge></p>
+  <p><img src=https://img.shields.io/badge/Github-Actions-0FF50F?logo=githubactions&logoColor=white&style=for-the-badge><img src=https://img.shields.io/badge/Jenkins-FF0000?logo=Jenkins&logoColor=white&style=for-the-badge><br>
+  <img src=https://img.shields.io/badge/GitlabCI-FF7500?logo=gitlab&logoColor=white&style=for-the-badge></p>
 </div>
 <h3 align='center'> Version Control tools</h3>
 <div align='center'>
@@ -24,8 +26,8 @@
 </div>
 <h3 align='center'>Web Frameworks </h3>
 <div align='center'>
-  <p><img src=https://img.shields.io/badge/Laravel-FF5F00?logo=Laravel&logoColor=white&style=for-the-badge></p>
-  <p>          <img src="https://img.shields.io/badge/Express-00F0FF?logo=Express&logoColor=white&style=for-the-badge"></p>
+  <p><img src=https://img.shields.io/badge/Laravel-FF5F00?logo=Laravel&logoColor=white&style=for-the-badge>
+      <img src="https://img.shields.io/badge/Express-00F0FF?logo=Express&logoColor=white&style=for-the-badge"></p>
 </div>
 <hr>
 
